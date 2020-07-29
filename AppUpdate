@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.2.8",
-  "latestVersionCode": "19",
+  "latestVersion": "1.2.9",
+  "latestVersionCode": "20",
   "url": "https://play.google.com/store/apps/details?id=tolsrc.emtisoft.emtipidvpn",
   "releaseNotes": [
-    "- eMTipidVPN V19",
+    "- eMTipidVPN V20 improved payload",
     "- Support Us",
     "- Bug fixes"
   ]
