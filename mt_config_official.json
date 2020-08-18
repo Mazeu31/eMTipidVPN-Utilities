@@ -1,6 +1,6 @@
 {
    "Announcement": "JoinToOurFBGroupforMoreInfo",
-   "Changelogs": "V33\n\n✔Facebook\n✔Youtube\n✔Browsing\n✔Streaming\n✔Downloading\n✔Uploading\n✔WiFiorData\n✔Rootedornot\n\n✖TORRENT\n✖DDOS\n✖HACKING\n✖SPAMMING\n✖CARDING\n✖ILLEGALCONTENT\n\nPoweredbyeMTiSoft💙",
+   "Changelogs": "V34\n\n✔Facebook\n✔Youtube\n✔Browsing\n✔Streaming\n✔Downloading\n✔Uploading\n✔WiFiorData\n✔Rootedornot\n\n✖TORRENT\n✖DDOS\n✖HACKING\n✖SPAMMING\n✖CARDING\n✖ILLEGALCONTENT\n\nPoweredbyeMTiSoft💙",
    "Networks_TCP": [
       {
          "Based": "DEFAULT",
@@ -458,8 +458,8 @@
          },
          "SSLEnabled": true,
          "User": {
-            "Password": "5qVKsxi6hHG1/C+EokEgpw==",
-            "Username": "yBjP6AB7zZMKLTSL544RkA=="
+            "Password": "FX5UoR/Q7WaJJSaFH2QWFZUUlnCl3rRsAMm5AJIZQXE=",
+            "Username": "FX5UoR/Q7WaJJSaFH2QWFZUUlnCl3rRsAMm5AJIZQXE="
          }
       },
       {
@@ -1406,6 +1406,29 @@
             "Password": "5qVKsxi6hHG1/C+EokEgpw==",
             "Username": "yBjP6AB7zZMKLTSL544RkA=="
          }
+      },
+      {
+         "Category": "EMTIPID",
+         "Certificate": "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",
+         "IP": "www.viber.com.edgekey.net.svr2.phvpn.zone",
+         "Location": "PH",
+         "Name_TCP": "PriVIP-Trial-hashtag1",
+         "Name_UDP": "UDP-hashtag1",
+         "Port_TCP": "443",
+         "Port_UDP": "110",
+         "ProxySettings": {
+            "Port": "7835",
+            "Squid": "58.69.24.98",
+            "Squid-IFLIX": "pph02.data.iflix.com.dnsmt.ml",
+            "Squid-ML": "pph02.web.mobilelegends.com.dnsmt.ml",
+            "Squid-TWITTER": "api.twitter.com.svr2.phvpn.zone",
+            "Squid-VIBER": "www.viber.com.edgekey.net.svr2.phvpn.zone"
+         },
+         "SSLEnabled": true,
+         "User": {
+            "Password": "FX5UoR/Q7WaJJSaFH2QWFZUUlnCl3rRsAMm5AJIZQXE=",
+            "Username": "FX5UoR/Q7WaJJSaFH2QWFZUUlnCl3rRsAMm5AJIZQXE="
+         }
       }
    ],
    "Servers_VIP": [
@@ -1451,10 +1474,10 @@
          },
          "SSLEnabled": true,
          "User": {
-            "Password": "phvpn",
-            "Username": "eMTi31"
+            "Password": "",
+            "Username": ""
          }
       }
    ],
-   "Version": "33"
+   "Version": "34"
 }
