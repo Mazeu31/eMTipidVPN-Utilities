@@ -269,7 +269,7 @@
 			"Category":"Donator",
 			"Country":"Singapore",
 			"Host":"donator-singapore-",
-			"Max_Range":"1",
+			"Max_Range":"2",
 			"Name":"hashtag",
 			"OpenVPNPort":"443",
 			"Server_Type":"eMTipid",
@@ -362,5 +362,5 @@
 			}
 		}
 	],
-	"Version":"39"
+	"Version":"40"
 }
