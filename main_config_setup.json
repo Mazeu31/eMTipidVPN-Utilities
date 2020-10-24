@@ -129,7 +129,7 @@
 			"Info":"Donottorrent",
 			"MoreInfo":"Beta",
 			"Name":"AT10",
-			"Network":"SMART/TNT",
+			"Network":"SMART",
 			"Payload":{
 				"mPayload":"QGk5lTSqwiIvrLF9FmMTmXDAp9ShFTsNCkpA27TRoVloAoRXIgULCiMkHX7lX/GbkY0/Z8u18EYebg01ugT7kSeVrRCPkh7cZJqAq+njuPVj9PH1pjH32M4R0CCyR5ukmexXSweNfw/OfVrxbOminyyD0Qib7McenywCzf03aTORqHnJFFHvcGcfDo7iwqIvMbPNXVH1TXGrIONTYYKQl/y8DiGsxzFpYNfk5aB41gN3oP3jrXs6ldQr6jfho1zcNrd1ttlB7f4XYKsHD1rKOUNG0AstLd55SQmv8wqx3qlFK/U57tMSZI+lD9QkWnD8PIZi5sPz+Gij7NveYCNVvDCP4RDGt3dBO9ifgiXXCPravrLB2zSR9u+e7Hc7CcB/UE89murTwrxtoN8i8HF7r1XBZnQtWM6pBNBGxwgivqjapr3qZhqOxL7H6HJoFqcb",
 				"ProxySettings":{
@@ -201,11 +201,11 @@
 			},
 			"Proto":"tcp"
 		},
-		/*
+		
 		{
 			"Based":"TWITTER",
 			"Info":"Donottorrent",
-			"MoreInfo":"RECOMMENDED",
+			"MoreInfo":"Beta",
 			"Name":"GigaStories",
 			"Network":"SMART/TNT",
 			"Payload":{
@@ -217,7 +217,7 @@
 				}
 			},
 			"Proto":"tcp"
-		},*/
+		},
 		{
 			"Based":"ML",
 			"Info":"Donottorrent",
