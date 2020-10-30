@@ -240,7 +240,7 @@
 			"Category":"Free",
 			"Country":"Singapore",
 			"Host":"tipid-singapore-",
-			"Max_Range":"2",
+			"Max_Range":"1",
 			"Name":"hashtag",
 			"OpenVPNPort":"443",
 			"Server_Type":"eMTipid",
@@ -251,7 +251,7 @@
 				"Password":"ArTPfASnnqZFS0m5nZlFVQ==",
 				"Username":"a/3e/C/tvHi7dpVT0aKWAA=="
 			}
-		},
+		},/*
 		{
 			"Category":"Free",
 			"Country":"Canada",
@@ -299,7 +299,7 @@
 				"Password":"ArTPfASnnqZFS0m5nZlFVQ==",
 				"Username":"a/3e/C/tvHi7dpVT0aKWAA=="
 			}
-		},
+		},*/
 		{
 			"Category":"Donator",
 			"Country":"Singapore",
@@ -315,7 +315,7 @@
 				"Password":"ArTPfASnnqZFS0m5nZlFVQ==",
 				"Username":"a/3e/C/tvHi7dpVT0aKWAA=="
 			}
-		},
+		},/*
 		{
 			"Category":"Paid",
 			"Country":"Canada",
@@ -331,7 +331,7 @@
 				"Password":"ArTPfASnnqZFS0m5nZlFVQ==",
 				"Username":"a/3e/C/tvHi7dpVT0aKWAA=="
 			}
-		},/*
+		},
 		{
 			"Category":"Paid",
 			"Country":"Canada",
@@ -397,5 +397,5 @@
 			}
 		}
 	],
-	"Version":"44"
+	"Version":"45"
 }
