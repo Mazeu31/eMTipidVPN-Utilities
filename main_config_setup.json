@@ -23,7 +23,7 @@
 			"Name":"DEFAULT",
 			"Network":"Direct",
 			"Payload":{
-				"mPayload":"QGk5lTSqwiIvrLF9FmMTmaM2t3FnyE9rPzk2vdrrs2rolFdWEKgGLazCuYrGxWiNP0+SfQVqMa3Vf4aJSnfVAVZDheB6IcDpeHsC+WHE8uAbB/anWHWWCI5OaRg4oUKeHgFSWR7fdcOGhX9OyINsuaDVLEDUoSXQgYFzRElMFOqZ2iRxYfkTO4k+I3UEjoSS4iYypm4wdCFNl48Z3Emy6UhxzPfvd5IiN1Sv+gWyJMB6z6l6+XmRmsNwKKIA5VTlwlFdmhwoTI4ySFmYN9/Xs3BvWpvMEzg/KzoffIGsdYP+DhjQ6dqs2YTs6XcbeGQPTKksSQiHdNsIIqEwjU0w2DmRaYFiG2bN/LRy/HpJLdU=",
+				"mPayload":"QGk5lTSqwiIvrLF9FmMTmXDAp9ShFTsNCkpA27TRoVloAoRXIgULCiMkHX7lX/GbkY0/Z8u18EYebg01ugT7kSeVrRCPkh7cZJqAq+njuPWKS0S+lcAUJJ9V3xokmhaRzfQTsySgkwH/vDo7ADMU/theGTXoF7m5Jrh6QUg9hchtU5r21G2EseoUNhfNSLQVSwZXjJBAYNOlBehzbWp3b5DpxqbqhP8eHDMRb/hHqooh7Im9tWJq8Krqpsn1L18goSMiAiKMRTr0Gq/1vK5LbUrd/gu/8CAvLTCsG4U5xAQGhdaOL/F4AW1Jl6SHqBDo2mQVob+NZTicOgYjCrnBb6iOrihWBDXh9yd8WFnz1Jl9F6IM3WeiLnwQL98Icz11uf5Yiuq42X4EGE6A8j00cPE2tCjQmP4PrlwiofJyZ8jsQ+pR1KTEnt0NJrhxMgmP0SR1L67MClAvWPQjGMDu95zuPLlNFwozr/NL9GNT7+DDV88jCsBCQHWIsWupnz5LVt2IdtzeYJ4dN+f2PdvPFydZiz8DQy2oRwtFxAoeQeA=",
 				"ProxySettings":{
 					"CustomProxy":false,
 					"Port":"8080",
@@ -269,7 +269,7 @@
 			}
 		},
 		{
-			"Category":"Free",
+			"Category":"Paid",
 			"Country":"Japan",
 			"Host":"premium-japan-",
 			"Max_Range":"2",
