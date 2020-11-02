@@ -17,6 +17,22 @@
 			"Proto":"tcp"
 		},
 		{
+			"Based":"DNS",
+			"DNS":"www.viber.com.edgekey.net.tweetdeck.twitter.com.clients2.google.com.www.tiktok.com.activity.mobilegends.com.iwant.ph.www.musical.ly.dnsmt.ml"
+			"Info":"Donottorrent",
+			"Name":"DEFAULT",
+			"Network":"Direct",
+			"Payload":{
+				"mPayload":"QGk5lTSqwiIvrLF9FmMTmaM2t3FnyE9rPzk2vdrrs2rolFdWEKgGLazCuYrGxWiNP0+SfQVqMa3Vf4aJSnfVAVZDheB6IcDpeHsC+WHE8uAbB/anWHWWCI5OaRg4oUKeHgFSWR7fdcOGhX9OyINsuaDVLEDUoSXQgYFzRElMFOqZ2iRxYfkTO4k+I3UEjoSS4iYypm4wdCFNl48Z3Emy6UhxzPfvd5IiN1Sv+gWyJMB6z6l6+XmRmsNwKKIA5VTlwlFdmhwoTI4ySFmYN9/Xs3BvWpvMEzg/KzoffIGsdYP+DhjQ6dqs2YTs6XcbeGQPTKksSQiHdNsIIqEwjU0w2DmRaYFiG2bN/LRy/HpJLdU=",
+				"ProxySettings":{
+					"CustomProxy":false,
+					"Port":"8080",
+					"Squid":"68.183.230.169"
+				}
+			},
+			"Proto":"tcp"
+		},
+		{
 			"Based":"DEFAULT",
 			"Info":"Donottorrent",
 			"Name":"WNP-SNS#1",
