@@ -267,7 +267,24 @@
 				"Password":"ArTPfASnnqZFS0m5nZlFVQ==",
 				"Username":"a/3e/C/tvHi7dpVT0aKWAA=="
 			}
-		},/*
+		},
+		{
+			"Category":"Free",
+			"Country":"Japan",
+			"Host":"premium-japan-",
+			"Max_Range":"2",
+			"Name":"hashtag",
+			"OpenVPNPort":"443",
+			"Server_Type":"eMTipid",
+			"SquidPort":"1031",
+			"SSLEnabled":true,
+			"Type":"EMTIPID",
+			"User":{
+				"Password":"ArTPfASnnqZFS0m5nZlFVQ==",
+				"Username":"a/3e/C/tvHi7dpVT0aKWAA=="
+			}
+		},
+		/*
 		{
 			"Category":"Free",
 			"Country":"Canada",
