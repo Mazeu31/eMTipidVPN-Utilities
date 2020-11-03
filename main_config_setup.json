@@ -278,7 +278,7 @@
 			"Server_Type":"eMTipid",
 			"SquidPort":"1031",
 			"SSLEnabled":true,
-			"Type":"EMTIPID",
+			"Type":"PREMIUM",
 			"User":{
 				"Password":"ArTPfASnnqZFS0m5nZlFVQ==",
 				"Username":"a/3e/C/tvHi7dpVT0aKWAA=="
@@ -430,5 +430,5 @@
 			}
 		}
 	],
-	"Version":"46"
+	"Version":"47"
 }
