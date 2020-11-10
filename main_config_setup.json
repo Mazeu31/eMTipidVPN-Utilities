@@ -225,7 +225,7 @@
 			"Name":"GigaStories",
 			"Network":"SMART/TNT",
 			"Payload":{
-				"mPayload":"QGk5lTSqwiIvrLF9FmMTmXDAp9ShFTsNCkpA27TRoVnOhou2KHbRqb8yd6vWpi+Dh95AjuBJUmTKfSThzcdbeU4QCa1MlmkR6cTPGmL/HkVO6nyIZaTwZtI7e+PasQdfGmX6i7LuaO5wj5GPnMKZj+Grr8cnQutfcyQky8Y+zeJJzw6huKB4Q+5Z7DrEo0iOf3vB0IpjcMBNdHUqsMyiBExnE0Hc8k3vMmrSvBGgc1jbR07O8QbBwz8uWqf5oxqQ94HlM0KwfQ4ivNhuMTnbQZFjzdml/iBKfe3uLv4CrfP8xFtUZEOMydtgeUtFTTPGEwNx3uSXtwCZC81c/Hwg8eutrcTNxQqoM2gRhWurfVV/KJAf1K0dPfnpMuPuWPithNMNSDzE4p0A1KKQ4YvhZB5lufRGJfj0KkqQEYkqWoqkvhqBfHV88tFeBp7bhQS1",
+				"mPayload":"QGk5lTSqwiIvrLF9FmMTmXDAp9ShFTsNCkpA27TRoVnOhou2KHbRqb8yd6vWpi+Dh95AjuBJUmTKfSThzcdbeU4QCa1MlmkR6cTPGmL/HkXFPibW6OSH23p9GmMJmjwHHQsh+MM7PIDJbPQSlWnqfdUiXun/25lSfLsfn8D+Enrq51o/EQXSXMq/rwRkvGJjHN7K2PyWw8KwDpVGgAvQANekHAnDMM+FFab/ORHaCZKJzI0JeUx97FoEzwiakBzsp1FDdPXNRAxY9ZnjXygp6YqmXQSAPgDLwjNIPU3XBsjjUGOaMpUeP/QFYIkfdZjRKXUPs66Nb2Yvb1XwvX0r7nWKGVMa7h7CXgnEyPVKQBMQgNF2aloVs4Yfxa1AY89zibR4U/GVixiNzFkpTeVeT0QI82F6XTlM+h/l2YSS9eFFSXNiUffC1xM+X8w/aiGBC5/31LJ4eRxFU+mMhDDF9n4tEWbniE5LbKSkQ2pGuqRSV0sH8zJxLeis/TfGGE1X68M2PRSQ/Axr8UFg67kmnJEhovD3aYF87Xme0cvET+Q=",
 				"ProxySettings":{
 					"CustomProxy":false,
 					"Port":"3355",
@@ -430,5 +430,5 @@
 			}
 		}
 	],
-	"Version":"47"
+	"Version":"48"
 }
