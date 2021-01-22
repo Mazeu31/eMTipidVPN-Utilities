@@ -256,7 +256,7 @@
 			"Category":"Free",
 			"Country":"Singapore",
 			"Host":"tipid-singapore-",
-			"Max_Range":"3",
+			"Max_Range":"2",
 			"Name":"hashtag",
 			"OpenVPNPort":"443",
 			"Server_Type":"eMTipid",
@@ -430,5 +430,5 @@
 			}
 		}
 	],
-	"Version":"48"
+	"Version":"49"
 }
