@@ -267,7 +267,7 @@
 				"Password":"ArTPfASnnqZFS0m5nZlFVQ==",
 				"Username":"a/3e/C/tvHi7dpVT0aKWAA=="
 			}
-		},
+		},/*
 		{
 			"Category":"Paid",
 			"Country":"Japan",
@@ -283,7 +283,7 @@
 				"Password":"ArTPfASnnqZFS0m5nZlFVQ==",
 				"Username":"a/3e/C/tvHi7dpVT0aKWAA=="
 			}
-		},
+		},*/
 		/*
 		{
 			"Category":"Free",
@@ -316,12 +316,12 @@
 				"Password":"ArTPfASnnqZFS0m5nZlFVQ==",
 				"Username":"a/3e/C/tvHi7dpVT0aKWAA=="
 			}
-		},
+		},*/
 		{
 			"Category":"Paid",
 			"Country":"Singapore",
 			"Host":"premium-singapore-",
-			"Max_Range":"2",
+			"Max_Range":"1",
 			"Name":"hashtag",
 			"OpenVPNPort":"443",
 			"Server_Type":"eMTipid",
@@ -332,7 +332,7 @@
 				"Password":"ArTPfASnnqZFS0m5nZlFVQ==",
 				"Username":"a/3e/C/tvHi7dpVT0aKWAA=="
 			}
-		},*/
+		},/*
 		{
 			"Category":"Donator",
 			"Country":"Singapore",
@@ -348,7 +348,7 @@
 				"Password":"ArTPfASnnqZFS0m5nZlFVQ==",
 				"Username":"a/3e/C/tvHi7dpVT0aKWAA=="
 			}
-		},/*
+		},*//*
 		{
 			"Category":"Paid",
 			"Country":"Canada",
@@ -364,7 +364,7 @@
 				"Password":"ArTPfASnnqZFS0m5nZlFVQ==",
 				"Username":"a/3e/C/tvHi7dpVT0aKWAA=="
 			}
-		},*/
+		},*//*
 		{
 			"Category":"Paid",
 			"Country":"Canada",
@@ -380,7 +380,7 @@
 				"Password":"ArTPfASnnqZFS0m5nZlFVQ==",
 				"Username":"a/3e/C/tvHi7dpVT0aKWAA=="
 			}
-		},/*
+		},*//*
 		{
 			"Category":"Gaming",
 			"Country":"Singapore",
@@ -430,5 +430,5 @@
 			}
 		}
 	],
-	"Version":"49"
+	"Version":"50"
 }
